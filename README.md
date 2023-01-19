@@ -1,14 +1,14 @@
-### Hi there 👋
+### Hola!!! 👋
 
 ## Acerca de mi
 
-Soy Gustavo Naranjo (mulatodev), un **Desarrollador Backend en Java y C#**. Tengo un grado de **Ingeniería Informática** y especialización en **Gerencia de Proyectos Informáticos**.
+:man_technologist: Soy Gustavo Naranjo (mulatodev), un **Desarrollador Backend en Java y C#**. Tengo un grado de **Ingeniería Informática** y especialización en **Gerencia de Proyectos Informáticos**. He participado y acompañado equipos de desarrollo de software en empresas como **Integrupo**, **EPM**, **Grupo Sura** (sumando 12 años de experiencia en ellas), entre otras. Me identifico como un entusiasta por aprender **siempre** sobre nuevos lenguajes de programacion y tecnologías.
 
-:man_technologist: He participado y acompañado equipos de desarrollo de software en empresas como **Integrupo**, **EPM**, **Grupo Sura** entre otras. Me identifico como un entusiasta por aprender **siempre** sobre nuevos lenguajes de programacion y tecnologias. Durante los ultimos 6 meses del ano 2022 aprendi sobre diseno y arquitecturas de **Microservicios** con **Java** y **Spring**, conceptos de Cloud en espcial **Azure** y **Oracle OCI**, **Docker** y **Podman** y manejo de **Git** e integracion con **Github**. Tambien en la aplicacion de buenas practicas en el diseno de sistemas Backend asi como **patrones de diseno** y de **arquitectura**. **HTML**, **CSS** y **Javascript**.
+Durante los últimos 6 meses del año 2022 aprendí sobre diseño y arquitecturas de **Microservicios** con **Java** y **Spring**, conceptos sobre API con **RESTful**, conceptos de Cloud en **Azure** y **Oracle OCI**, contenedores con **Docker** y **Podman**, manejo de repositorios con **Git** y de CI/CD con **Github**. También en la aplicacion de buenas practicas, **patrones de diseño** y de **arquitectura** para el desarrollo Backend. **HTML**, **CSS** y **Javascript**.
 
-Mis metas de aprendizaje en tecnologias en el ano 2023 estaran encaminadas en subir el liston para ser **Desarrollador FullStack**, para lo cual estuadira algunos de los frameworks disponbles para front-end, y tambien considerare programacion en tiempo real con **WebSockets** y programacion de Bots y lenguaje natural con **IA**. Tambien estoy considerando abrir mi blog y plasmar en el contenido sobre lo que aprendo de nuevas tecnologias.
+Mis metas de aprendizaje en tecnologías para el año 2023 estarán encaminadas en convertirme en **Desarrollador FullStack**, para lo cual estudiaré algún framework disponible para front-end, esquemas nuevos para el manejo de API como **GraphQL** y también consideraré programación en tiempo real con **WebSockets** y programación de Bots y lenguaje natural con **IA**. Me gustaría tener un blog y plasmar en el, contenido sobre lo que aprendo de programación.
 
-Me gusta montar bici, leer, bailar, y tomar fotografias y no menos importante, pasar tiempo de calidad con mi esposa e hija. Nos encanta viajar.
+Me gusta montar bici, leer, bailar, y tomar fotografías y no menos importante, pasar tiempo de calidad con mi esposa e hija. Nos encanta viajar!!!.
 
 ## :medal_sports: Logros
 
