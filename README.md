@@ -15,6 +15,7 @@ Me gusta montar bici, leer, bailar, y tomar fotografías y no menos importante, 
 ## :hammer_and_wrench: Habilidades
 
 ### Lenguajes
+![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Stats
 
