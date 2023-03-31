@@ -2,7 +2,7 @@
 
 <!--## Acerca de mi-->
 
-:man_technologist: Soy <!--Gustavo Naranjo (mulatodev), un -->**Desarrollador en Java y C#** orientado hacia el **Backend **. Tengo un grado de **Ingeniería Informática** y especialización en **Gerencia de Proyectos Informáticos**. He participado y acompañado equipos de desarrollo de software en empresas como **Integrupo** (hoy SoftwareOne), **Grupo EPM**, **Grupo Sura** (sumando 12 años de experiencia en ellas), entre otras. Me identifico como un entusiasta por aprender **siempre** sobre nuevos lenguajes de programación y tecnologías.
+:man_technologist: Soy <!--Gustavo Naranjo (mulatodev), un -->**Desarrollador en Java y C#** orientado hacia el **Backend**. Tengo un grado de **Ingeniería Informática** y especialización en **Gerencia de Proyectos Informáticos**. He participado y acompañado equipos de desarrollo de software en empresas como **Integrupo** (hoy SoftwareOne), **Grupo EPM**, **Grupo Sura** (sumando 12 años de experiencia en ellas), entre otras. Me identifico como un entusiasta por aprender **siempre** sobre nuevos lenguajes de programación y tecnologías.
 <!--
 Durante los últimos 6 meses del año 2022 aprendí sobre diseño y arquitecturas de **Microservicios** con **Java** y **Spring**, conceptos sobre API con **RESTful**, conceptos de Cloud en **Azure** y **Oracle OCI**, contenedores con **Docker** y **Podman**, manejo de repositorios con **Git** y de CI/CD con **Github**. También en la aplicacion de buenas practicas, **patrones de diseño** y de **arquitectura** para el desarrollo Backend. **HTML**, **CSS** y **Javascript**.
 
@@ -79,7 +79,7 @@ Me gusta montar bici, leer, bailar y la fotografía y no menos importante, pasar
 
 ## :chart_with_upwards_trend: Stats
 -->
-## :link: Contactame en
+## :link: Contáctame en
 <!--[![portafolio](https://img.shields.io/badge/Portafolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://mulatodev.github.io/me/)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.dropbox.com/s/hhti7kf8dd9xkhd/CV%20Gustavo%20Naranjo.pdf?dl=0)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/gustavonaranjobenavides)
