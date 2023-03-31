@@ -2,14 +2,14 @@
 
 <!--## Acerca de mi-->
 
-:man_technologist: Soy <!--Gustavo Naranjo (mulatodev), -->un **Desarrollador Backend en Java y C#**. Tengo un grado de **Ingeniería Informática** y especialización en **Gerencia de Proyectos Informáticos**. He participado y acompañado equipos de desarrollo de software en empresas como **Integrupo**, **EPM**, **Grupo Sura** (sumando 12 años de experiencia en ellas), entre otras. Me identifico como un entusiasta por aprender **siempre** sobre nuevos lenguajes de programación y tecnologías.
+:man_technologist: Soy <!--Gustavo Naranjo (mulatodev), un -->**Desarrollador en Java y C#** orientado hacia el **Backend **. Tengo un grado de **Ingeniería Informática** y especialización en **Gerencia de Proyectos Informáticos**. He participado y acompañado equipos de desarrollo de software en empresas como **Integrupo** (hoy SoftwareOne), **Grupo EPM**, **Grupo Sura** (sumando 12 años de experiencia en ellas), entre otras. Me identifico como un entusiasta por aprender **siempre** sobre nuevos lenguajes de programación y tecnologías.
 <!--
 Durante los últimos 6 meses del año 2022 aprendí sobre diseño y arquitecturas de **Microservicios** con **Java** y **Spring**, conceptos sobre API con **RESTful**, conceptos de Cloud en **Azure** y **Oracle OCI**, contenedores con **Docker** y **Podman**, manejo de repositorios con **Git** y de CI/CD con **Github**. También en la aplicacion de buenas practicas, **patrones de diseño** y de **arquitectura** para el desarrollo Backend. **HTML**, **CSS** y **Javascript**.
 
 Mis metas de aprendizaje en tecnologías para el año 2023 estarán encaminadas en convertirme en **Desarrollador FullStack**, para lo cual estudiaré algún framework disponible para front-end, esquemas nuevos para el manejo de API como **GraphQL** y también programación en tiempo real con **WebSockets** y programación de Bots y lenguaje natural con **IA**. Me gustaría tener un blog y plasmar en el contenido sobre lo que aprendo de programación.
 -->
-Me gusta montar bici, leer, bailar, y tomar fotografías y no menos importante, pasar tiempo de calidad con mi esposa e hija. Nos encanta viajar!!!.
-
+Me gusta montar bici, leer, bailar y la fotografía y no menos importante, pasar tiempo de calidad con mi esposa e hija. Nos encanta viajar!!!.
+<!--
 ## :medal_sports: Logros
 
 
@@ -19,29 +19,29 @@ Me gusta montar bici, leer, bailar, y tomar fotografías y no menos importante, 
 ### Lenguajes y plataformas
 
 ![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-<!--![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)-->
-<!--![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)-->
-<!--![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)-->
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ###
 ![spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![springboot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![springcloud](https://img.shields.io/badge/springcloud-%236DB33F.svg?style=for-the-badge&logo=springcloud&logoColor=white)
-<!--![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)-->
-<!--![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)<!--
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-<!--### Front-End-->
-<!--![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)-->
-<!--![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)-->
-<!--
+### Front-End
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 ### Nubes
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
--->
+
 ### Bases de datos
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-<!--![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)-->
-<!--
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
 ### Otras tecnologías
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
