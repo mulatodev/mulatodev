@@ -78,8 +78,9 @@ Me gusta montar bici, leer, bailar y la fotografía y no menos importante, pasar
 
 
 ## :chart_with_upwards_trend: Stats
--->
-## :link: Contáctame en
+
+## :link: Contáctame en-->
+### Contáctame en
 | [mail](mailto:ganaranjo@gmail.com)
 | [linkedin](https://www.linkedin.com/in/gustavonaranjobenavides)
 |
