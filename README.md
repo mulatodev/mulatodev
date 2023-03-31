@@ -80,8 +80,9 @@ Me gusta montar bici, leer, bailar y la fotografía y no menos importante, pasar
 ## :chart_with_upwards_trend: Stats
 -->
 ## :link: Contáctame en
-[mail](mailto:ganaranjo@gmail.com)
-[linkedin](https://www.linkedin.com/in/gustavonaranjobenavides)
+| [mail](mailto:ganaranjo@gmail.com)
+| [linkedin](https://www.linkedin.com/in/gustavonaranjobenavides)
+|
 <!--[![portafolio](https://img.shields.io/badge/Portafolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://mulatodev.github.io/me/)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.dropbox.com/s/hhti7kf8dd9xkhd/CV%20Gustavo%20Naranjo.pdf?dl=0)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mulatodev)
