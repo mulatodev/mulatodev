@@ -80,10 +80,12 @@ Me gusta montar bici, leer, bailar y la fotografía y no menos importante, pasar
 ## :chart_with_upwards_trend: Stats
 -->
 ## :link: Contáctame en
+[mail](mailto:ganaranjo@gmail.com)
+[linkedin](https://www.linkedin.com/in/gustavonaranjobenavides)
 <!--[![portafolio](https://img.shields.io/badge/Portafolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://mulatodev.github.io/me/)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.dropbox.com/s/hhti7kf8dd9xkhd/CV%20Gustavo%20Naranjo.pdf?dl=0)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mulatodev)-->
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mulatodev)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ganaranjo@gmail.com)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/gustavonaranjobenavides)
-<!--[![twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/eltavonaranjo)
+[![twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/eltavonaranjo)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eltavonaranjo/)-->
