@@ -1,8 +1,8 @@
 ### Hola!!!, Soy Gustavo 👋
 
-## Acerca de mi
+<!--## Acerca de mi-->
 
-:man_technologist: Soy Gustavo Naranjo (mulatodev), un **Desarrollador Backend en Java y C#**. Tengo un grado de **Ingeniería Informática** y especialización en **Gerencia de Proyectos Informáticos**. He participado y acompañado equipos de desarrollo de software en empresas como **Integrupo**, **EPM**, **Grupo Sura** (sumando 12 años de experiencia en ellas), entre otras. Me identifico como un entusiasta por aprender **siempre** sobre nuevos lenguajes de programación y tecnologías.
+:man_technologist: Soy <!--Gustavo Naranjo (mulatodev), -->un **Desarrollador Backend en Java y C#**. Tengo un grado de **Ingeniería Informática** y especialización en **Gerencia de Proyectos Informáticos**. He participado y acompañado equipos de desarrollo de software en empresas como **Integrupo**, **EPM**, **Grupo Sura** (sumando 12 años de experiencia en ellas), entre otras. Me identifico como un entusiasta por aprender **siempre** sobre nuevos lenguajes de programación y tecnologías.
 <!--
 Durante los últimos 6 meses del año 2022 aprendí sobre diseño y arquitecturas de **Microservicios** con **Java** y **Spring**, conceptos sobre API con **RESTful**, conceptos de Cloud en **Azure** y **Oracle OCI**, contenedores con **Docker** y **Podman**, manejo de repositorios con **Git** y de CI/CD con **Github**. También en la aplicacion de buenas practicas, **patrones de diseño** y de **arquitectura** para el desarrollo Backend. **HTML**, **CSS** y **Javascript**.
 
@@ -56,7 +56,7 @@ Me gusta montar bici, leer, bailar, y tomar fotografías y no menos importante, 
 ###
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)-->
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Educación
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -80,7 +80,7 @@ Me gusta montar bici, leer, bailar, y tomar fotografías y no menos importante, 
 ## :chart_with_upwards_trend: Stats
 
 ## :link: Enlaces
-<!--[![portafolio](https://img.shields.io/badge/Portafolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://mulatodev.github.io/me/)
+[![portafolio](https://img.shields.io/badge/Portafolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://mulatodev.github.io/me/)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.dropbox.com/s/hhti7kf8dd9xkhd/CV%20Gustavo%20Naranjo.pdf?dl=0)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/gustavonaranjobenavides)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mulatodev)-->
