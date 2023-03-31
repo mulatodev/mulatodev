@@ -78,9 +78,9 @@ Me gusta montar bici, leer, bailar y la fotografía y no menos importante, pasar
 
 
 ## :chart_with_upwards_trend: Stats
-
-## :link: Enlaces
-[![portafolio](https://img.shields.io/badge/Portafolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://mulatodev.github.io/me/)
+-->
+## :link: Contactame en
+<!--[![portafolio](https://img.shields.io/badge/Portafolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://mulatodev.github.io/me/)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.dropbox.com/s/hhti7kf8dd9xkhd/CV%20Gustavo%20Naranjo.pdf?dl=0)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/gustavonaranjobenavides)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mulatodev)-->
